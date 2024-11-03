@@ -6,3 +6,5 @@ This repository is dedicated to teaching Unity, offering structured lessons, tas
 ## Tasks
 [Task 1](https://github.com/mlhzahedi/Unity-Course/blob/main/task1.md)
 [Task 2](https://github.com/mlhzahedi/Unity-Course/blob/main/task2.md)
+[Task 3](https://github.com/mlhzahedi/Unity-Course/blob/main/task3.md)
+[Task 4](https://github.com/mlhzahedi/Unity-Course/blob/main/task4.md)
